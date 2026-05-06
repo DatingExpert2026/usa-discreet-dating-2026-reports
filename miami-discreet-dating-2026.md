@@ -1,3 +1,6 @@
+---
+description: Coastal discreet dating for Miami executives. AI proximity matching in Brickell & South Beach. Secure, anonymous, and 100% verified locals. Join today.
+---
 🌴 Miami 2026: The Executive Guide to Discreet Coastal Dating
 In a city defined by status, image, and luxury nightlife, Miami professionals in real estate, finance, and tourism need a way to connect that stays far away from their public social circles. From Brickell to South Beach, the demand for high-end, anonymous dating has reached a peak.
 
