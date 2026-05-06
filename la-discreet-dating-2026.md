@@ -1,3 +1,6 @@
+---
+description: Private dating for LA’s creative and tech elite. AI Smart Matching in Santa Monica, WeHo & Silver Lake. Stay anonymous, stay verified. 1st message free.
+---
 🌴 Los Angeles 2026: The Insider’s Guide to Discreet SoCal Dating
 In a city built on image, finding a private connection in LA is the ultimate challenge. Professionals in the creative and tech industries need to connect without their profiles being shared or screenshotted.
 
