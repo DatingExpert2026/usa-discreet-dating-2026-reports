@@ -13,7 +13,7 @@ The "DLG Media Services" Stealth Billing: Using PayPal ensures that all transact
 
 Verified Real-Time Connections: NYC moves fast. Our data shows that 85% of verified users in the Tri-State area respond within 10 minutes.
 
-![Live Girls](Live Girls.jpg)
+![Live Girls](promo.jpg)
 📊 Neighborhood Activity Report (Q2 2026)
 We are seeing peak user engagement in these specific hubs:
 
