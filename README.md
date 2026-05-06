@@ -1,15 +1,15 @@
 ---
-description: Official 2026 US Discreet Dating Network. AI-powered proximity matching for professionals in NYC, LA, Houston, and 22 other major hubs. 100% private.
+description: Official 2026 US Discreet Dating Network. AI-powered proximity matching for professionals in NYC, LA, Houston, and 32 other major hubs. 100% private.
 ---
 
 # 🚀 US Discreet Dating Network - 2026 Executive Guide
 
-Welcome to the central repository for the **2026 US Discreet Dating Network**. This project serves as a high-security bridge for professionals seeking private, local connections in the 25 largest metropolitan hubs in the United States.
+Welcome to the central repository for the **2026 US Discreet Dating Network**. This project serves as a high-security bridge for professionals seeking private, local connections in the **35 largest metropolitan hubs** in the United States.
 
 ## 🛡️ Project Overview
 In 2026, privacy is the ultimate luxury. This network is specifically engineered for executives and professionals in high-stakes industries (Finance, Energy, Healthcare, Military, Tech, and Aerospace) who require a dating solution that remains completely invisible to their professional circles.
 
-## 📍 Local Portals (Top 25 Cities)
+## 📍 Local Portals (Top 35 Cities)
 All portals utilize **AI Smart Matching** to instantly pair users with verified locals based on real-time proximity. 
 
 | # | City | Access Link | Primary Industry Hub |
@@ -39,6 +39,16 @@ All portals utilize **AI Smart Matching** to instantly pair users with verified 
 | 23 | **El Paso** | [El Paso Portal](el-paso-discreet-2026.md) | Borderplex & Medical |
 | 24 | **Nashville** | [Nashville Portal](nashville-discreet-dating-2026.md) | Healthcare & Music |
 | 25 | **Oklahoma City** | [OKC Portal](oklahoma-city-discreet-2026.md) | Energy & Aviation |
+| 26 | **Atlanta** | [Atlanta Portal](atlanta-discreet-dating-2026.md) | Fortune 500 & Film |
+| 27 | **Las Vegas** | [Vegas Portal](las-vegas-discreet-2026.md) | Hospitality & Entertainment |
+| 28 | **Minneapolis** | [Minneapolis Portal](minneapolis-discreet-2026.md) | Retail & Medical |
+| 29 | **Portland** | [Portland Portal](portland-discreet-dating-2026.md) | Silicon Forest & Creative |
+| 30 | **Salt Lake City** | [SLC Portal](salt-lake-city-discreet-2026.md) | Silicon Slopes & Finance |
+| 31 | **St. Louis** | [St. Louis Portal](st-louis-discreet-2026.md) | BioTech & Finance |
+| 32 | **Sacramento** | [Sacramento Portal](sacramento-discreet-2026.md) | Government & Lobbying |
+| 33 | **Pittsburgh** | [Pittsburgh Portal](pittsburgh-discreet-2026.md) | Robotics & Medical |
+| 34 | **Detroit** | [Detroit Portal](detroit-discreet-dating-2026.md) | Auto Executive & Tech |
+| 35 | **Tampa** | [Tampa Portal](tampa-discreet-dating-2026.md) | Defense & Finance |
 
 ---
 
@@ -49,7 +59,7 @@ All portals utilize **AI Smart Matching** to instantly pair users with verified 
 * **Verified Engagement:** The network is monitored by AI to ensure an 85%+ response rate from real, active users in each specific city.
 
 ## 🚀 Deployment & Usage
-1. **Repository Sync:** Ensure all 25 city-specific `.md` files are present in the root directory.
+1. **Repository Sync:** Ensure all 35 city-specific `.md` files are present in the root directory.
 2. **Asset Management:** The `promo.jpg` file must be in the root directory for proper image rendering across all portals.
 3. **Local Access:** Click on any city link above to view the specific 2026 guide and access the AI-matching portal for that region.
 
