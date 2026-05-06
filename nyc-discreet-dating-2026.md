@@ -1,3 +1,6 @@
+---
+description: Discreet dating in NYC 2026. Protect your professional reputation with AI Smart Matching. Verified locals in Manhattan, Brooklyn & Queens. Join for free.
+---
 🗽 New York City 2026: The Executive Guide to Discreet Dating
 In the high-pressure environment of Manhattan, Brooklyn, and Queens, privacy is more than a preference—it’s a necessity. For NYC professionals working in finance, law, or media, the exposure of a public dating profile is a risk most aren't willing to take.
 
