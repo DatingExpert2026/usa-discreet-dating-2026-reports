@@ -1,3 +1,6 @@
+---
+description: Secure dating for Chicago professionals in the Loop & Gold Coast. 100% private AI matching. No social media links. See verified Windy City matches today.
+---
 🏙️ Chicago 2026: The Professional’s Guide to Discreet Dating in the Windy City
 In a city where business is done in the Loop and reputation is everything in the Gold Coast, Chicago professionals cannot afford the exposure of mainstream dating apps. Whether you are in finance, law, or tech, you need a connection that stays off the public radar.
 
