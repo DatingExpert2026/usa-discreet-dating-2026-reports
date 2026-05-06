@@ -1,3 +1,6 @@
+---
+description: Official 2026 US Discreet Dating Network. AI-powered proximity matching for professionals in NYC, LA, Houston, and more. 100% private, verified & secure.
+---
 # 🚀 US Discreet Dating Network - 2026 Executive Guide
 
 Welcome to the central repository for the **2026 US Discreet Dating Network**. This project serves as a high-security bridge for professionals seeking private, local connections in the largest metropolitan hubs in the United States.
