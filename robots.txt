@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datingexpert2026.github.io/usa-discreet-dating-2026-reports/sitemap.xml
