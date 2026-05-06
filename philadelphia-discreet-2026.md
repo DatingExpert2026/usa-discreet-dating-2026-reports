@@ -1,3 +1,6 @@
+---
+description: Anonymous dating for Philly’s legal and medical sectors. Discover discreet connections in Rittenhouse & Center City with AI Smart Matching. Free access.
+---
 🔔 Philadelphia 2026: The Professional’s Guide to Discreet Dating
 In the City of Brotherly Love, keeping your private life "private" is essential for those in the legal and medical sectors. Philly professionals are moving away from public apps to avoid exposure.
 
