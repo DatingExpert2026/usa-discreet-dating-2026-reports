@@ -1,3 +1,6 @@
+---
+description: Houston's premier discreet dating portal for Energy & Medical professionals. AI proximity matching for secure, anonymous connections in H-Town. Start now.
+---
 🚀 Houston 2026: The Energy Capital’s Guide to Discreet Hookups
 Houston is the sprawling heart of Texas, where professional life in the Energy Corridor and the Medical Center moves at lightning speed. For high-level professionals in H-Town, traditional dating apps are a public risk.
 
