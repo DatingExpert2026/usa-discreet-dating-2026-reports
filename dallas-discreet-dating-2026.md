@@ -1,3 +1,6 @@
+---
+description: North Texas executive dating guide. Private AI matching for Dallas, Plano & Frisco professionals. Protect your reputation. Join the 2026 network now.
+---
 🤠 Dallas 2026: The Executive Guide to Discreet Dating in North Texas
 In the DFW Metroplex, your professional reputation is your most valuable asset. For those working in the high-stakes world of finance, energy, and telecommunications, public dating apps are a major liability. Dallas professionals need a private channel to connect without the risk of being recognized.
 
