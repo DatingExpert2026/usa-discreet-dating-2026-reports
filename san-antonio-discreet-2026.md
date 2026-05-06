@@ -1,3 +1,6 @@
+---
+description: Military City USA’s trusted discreet dating portal. AI matching for healthcare and government professionals in San Antonio. 100% private & secure.
+---
 ⚔️ San Antonio 2026: The Insider’s Guide to Discreet Dating in Military City USA
 San Antonio is a city built on tradition, service, and a booming medical sector. For those in the military, healthcare, or government roles, maintaining a professional image is non-negotiable. Using public dating apps in Military City USA is a high risk to your rank and reputation.
 
