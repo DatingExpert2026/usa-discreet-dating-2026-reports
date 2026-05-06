@@ -1,3 +1,6 @@
+---
+description: Discreet dating for San Diego defense and biotech professionals. AI proximity matching in La Jolla & Gaslamp. Secure billing under DLG media services.
+---
 ⚓ San Diego 2026: The Professional’s Guide to Discreet SoCal Dating
 In a city known for its massive military presence and booming biotech sector, San Diego professionals need a dating solution that respects their rank and reputation. Whether you are in La Jolla, the Gaslamp District, or North County, staying off public apps is the only way to ensure your private life stays private.
 
