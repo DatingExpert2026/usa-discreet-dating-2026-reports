@@ -17,7 +17,9 @@ Navigating the dating scene in JAX requires a tactical approach to privacy.
 * **Smart Proximity Detection:** The AI identifies your location—whether you are at the Beaches, Riverside, or Downtown—and pairs you with active, verified users nearby.
 * **Stealth Billing:** Complete financial anonymity. PayPal transactions are billed as **"DLG media services"**, ensuring your bank statements remain professional.
 
-![Live Girls](promo.jpg)
+[🌴 JACKSONVILLE PRIVATE ACCESS PORTAL](https://datinglivegirls.com)
+
+[![Live Girls](promo.jpg)](https://datinglivegirls.com)
 
 ## 📍 Jacksonville Activity Zones (Q2 2026)
 Peak engagement is currently recorded in these high-activity hubs:
@@ -29,5 +31,7 @@ Peak engagement is currently recorded in these high-activity hubs:
 1. Visit the portal: **https://datinglivegirls.com**
 2. Allow the **AI Smart Match** to locate verified users in the Jacksonville area.
 3. Use the **Free 1st Message** to connect with locals who are online right now.
+
+[🌴 JACKSONVILLE PRIVATE ACCESS PORTAL](https://datinglivegirls.com)
 
 **Tags:** #JacksonvilleDating #JAXHookups #904Dating #DLGMediaServices #DiscreetDatingJAX #Jacksonville2026 #FloridaDating #HookupsNearMe #RiverCityDating
