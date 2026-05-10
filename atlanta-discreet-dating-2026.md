@@ -17,7 +17,7 @@ In a city that’s always in the spotlight, discretion is the ultimate luxury.
 * **Neighborhood Intelligence:** Our AI identifies your location—whether you are in Buckhead, Virginia-Highland, or Alpharetta—and pairs you with active, verified users nearby for immediate, private connections.
 * **Neutral Billing Protocol:** Total financial anonymity. All PayPal transactions are billed as **"DLG media services"**, blending in seamlessly with your standard digital subscriptions or marketing tools.
 
-![Live Girls](promo.jpg)
+[![Live Girls](promo.jpg)](https://datinglivegirls.com)
 
 ## 📍 Atlanta Power Zones (Q2 2026)
 Current AI data shows peak engagement in these high-influence corridors:
