@@ -28,7 +28,7 @@ Current AI data shows peak engagement in these high-influence corridors:
 * **The Battery & Cumberland:** High-end, discreet activity for corporate executives and sports industry pros.
 
 ## 🚀 Access the Atlanta Network
-1. Visit the portal: **https://datinglivegirls.com**
+1. Visit the portal: www.datinglivegirls.com
 2. Enable the **AI Smart Match** to scan for verified users in the Atlanta Metro area.
 3. Use your **Free 1st Message** to reach out to active locals online right now.
 
