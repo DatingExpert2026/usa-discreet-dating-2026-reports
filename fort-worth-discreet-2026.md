@@ -17,7 +17,9 @@ Fort Worth is a large city with a small-town feel in professional circles. Discr
 * **Intelligent Proximity:** The AI recognizes your location in Downtown, Tanglewood, or the Alliance area and instantly pairs you with active, verified users nearby.
 * **Neutral Billing:** Total financial discretion. All PayPal transactions are billed as **"DLG media services"**, fitting perfectly into your standard digital expenses.
 
-![Live Girls](promo.jpg)
+[🗝️ FORT WORTH DISCREET MATCHING](https://datinglivegirls.com)
+
+[![Live Girls](promo.jpg)](https://datinglivegirls.com)
 
 ## 📍 Fort Worth Activity Hotspots (Q2 2026)
 Current AI data shows high engagement in these key North Texas hubs:
@@ -29,5 +31,7 @@ Current AI data shows high engagement in these key North Texas hubs:
 1. Visit the portal: **https://datinglivegirls.com**
 2. Enable the **AI Smart Match** to find verified users in the Fort Worth area.
 3. Send a **Free 1st Message** to active locals who are online and ready to meet.
+
+[🗝️ FORT WORTH DISCREET MATCHING](https://datinglivegirls.com)
 
 **Tags:** #FortWorthDating #CowtownHookups #817Dating #DLGMediaServices #DiscreetDatingFW #FortWorth2026 #TexasDating #HookupsNearMe #SundanceSquare
