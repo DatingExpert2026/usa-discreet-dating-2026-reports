@@ -19,7 +19,7 @@ In a city that's "kept weird" but also kept professional, discretion is the ulti
 
 [🎸 AUSTIN DISCREET DATING - 100% PRIVATE](https://datinglivegirls.com)
 
-![Live Girls](promo.jpg)
+[![Live Girls](promo.jpg)](https://datinglivegirls.com)
 
 ## 📍 Austin Activity Hotspots (Q2 2026)
 The AI is currently reporting the highest match density in these ATX districts:
@@ -28,7 +28,7 @@ The AI is currently reporting the highest match density in these ATX districts:
 * **Zilker & South Lamar:** High engagement from the creative and entrepreneurial community.
 
 ## 🚀 Get Connected Tonight
-1. Go to: **https://datinglivegirls.com**
+1. Go to: www.datinglivegirls.com
 2. Let the **AI Smart Match** detect your current Austin neighborhood.
 3. Send a **Free 1st Message** to verified locals who are online and active.
 
