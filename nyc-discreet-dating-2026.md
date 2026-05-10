@@ -17,7 +17,7 @@ The "DLG Media Services" Stealth Billing: Using PayPal ensures that all transact
 
 [🔥 ACCESS NEW YORK CITY PRIVATE MATCHES HERE](https://datinglivegirls.com)
 
-![Live Girls](promo.jpg)
+[![Live Girls](promo.jpg)](https://datinglivegirls.com)
 
 📊 Neighborhood Activity Report (Q2 2026)
 The AI is currently matching the highest volume of users in:
